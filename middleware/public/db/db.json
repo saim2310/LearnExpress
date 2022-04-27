@@ -1,0 +1,30 @@
+[
+    {
+        "item": "wireless mouse",
+        "qty": "100"
+    },
+    {
+        "item": "mouse",
+        "qty": "100"
+    },
+    {
+        "item": "keyboards",
+        "qty": "1500"
+    },
+    {
+        "item": "graphic cards",
+        "qty": "1000"
+    },
+    {
+        "item": "ssd",
+        "qty": "900"
+    },
+    {
+        "item": "RAMs",
+        "qty": "1300"
+    },
+    {
+        "item": "processors",
+        "qty": "800"
+    }
+]
